@@ -8,7 +8,7 @@ import destLogoImg from './assets/destinationLogo.png';
 import { Loader } from '@googlemaps/js-api-loader';
 import MapComponent from './components/MapComponent';
 
-const GOOGLE_MAPS_API_KEY = "AIzaSyBuTFtFl1QChkGkKQZROvaYqVzkOEKXv5M";
+const GOOGLE_MAPS_API_KEY = "YOUR_API";
 
 const loader = new Loader({
   apiKey: GOOGLE_MAPS_API_KEY,
